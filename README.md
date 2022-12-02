@@ -8,6 +8,7 @@
 * [**KTH Algorithm Competition Template Library**](https://github.com/kth-competitive-programming/kactl)
 
 * [**bangla-programming-resources**](https://github.com/me-shaon/bangla-programming-resources) - Bangla tutorial, reference and resource list on programming topics
+* [**e-maxx-eng**](https://github.com/e-maxx-eng/e-maxx-eng)
 
 * [**Programming-Problem-In-Bengali**](https://github.com/hasancse91/Programming-Problem-In-Bengali) - ফেসবুক ভিত্তিক গ্রুপঃ প্রোগ্রামিং প্রবলেম (Programming Problem in Bengali) । এই গ্রুপের বিভিন্ন গুরুত্বপূর্ণ ডকুমেন্টসগুলো এই রিপোজিটরিতে সংযুক্ত হতে থাকবে।
 
@@ -25,9 +26,20 @@
 # web development repository 
 
 * [**react-in-patterns**](https://github.com/krasimir/react-in-patterns)
+
+* [**react-model**](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React
+* [**React-Native-developer-roadmap**](https://github.com/hayanisaid/React-Native-developer-roadmap) -  React Native is a cross-platform library to build mobile apps using React and JavaScript. This guide is to help you in your React Native journey. this repo contain a great the resources you need to work with React Native art,(Articles, Tutorials)
+* [**web-skills**](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
+* [**frontend-dev-bookmark**](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers
 * [**storybook**](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 
+# Github
 
+* [**github-cheat-sheet**](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of git and github
+* [**awesome-readme**](https://github.com/Mahedi178/awesome-readme) - A curated list of awesome READMEs
+# Shell 
+
+* [**the-art-of-command-line**](https://github.com/jlevy/the-art-of-command-line)
 # Miscallenous 
 
 * [**Best-websites-a-programmer-should-visit**](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Some useful websites for programmers.

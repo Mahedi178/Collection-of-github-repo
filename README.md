@@ -25,13 +25,29 @@
 
 # web development repository 
 
-* [**react-in-patterns**](https://github.com/krasimir/react-in-patterns)
+* ## javascript
+* ## react
 
-* [**react-model**](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React
-* [**React-Native-developer-roadmap**](https://github.com/hayanisaid/React-Native-developer-roadmap) -  React Native is a cross-platform library to build mobile apps using React and JavaScript. This guide is to help you in your React Native journey. this repo contain a great the resources you need to work with React Native art,(Articles, Tutorials)
-* [**web-skills**](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
-* [**frontend-dev-bookmark**](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers
-* [**storybook**](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+    * [**react-in-patterns**](https://github.com/krasimir/react-in-patterns)
+
+    * [**react-model**](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React
+    * [**React-Native-developer-roadmap**](https://github.com/hayanisaid/React-Native-developer-roadmap) -  React Native is a cross-platform library to build mobile apps using React and JavaScript. This guide is to help you in your React Native journey. this repo contain a great the resources you need to work with React Native art,(Articles, Tutorials)
+    * [**web-skills**](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
+    * [**frontend-dev-bookmark**](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers
+    * [**storybook**](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+
+    * [**30-days-of-react**](https://github.com/Asabeneh/30-Days-Of-React)
+    * [**learn-react-app**](https://github.com/tyroprogrammer/learn-react-app)
+    * [**react-bits**](https://github.com/vasanthk/react-bits)
+
+    * [**awesome-react**](https://github.com/enaqx/awesome-react)
+
+    * [**react-typescript-cheat-sheet**](https://github.com/typescript-cheatsheets/react)
+
+    * [**under the hood react**](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
+    * [**beautifulo-react-hooks**](https://github.com/antonioru/beautiful-react-hooks)
+
+    * [**react redux typescript guide**](https://github.com/piotrwitek/react-redux-typescript-guide)
 
 # Github
 

@@ -26,8 +26,8 @@
 # web development repository 
 
 * ## css
-    * [**30-seconds-of-css**](https://github.com/30-seconds/30-seconds-of-css)
-    * [**animate.css**](https://github.com/animate-css/animate.css)
+    * [**30-seconds-of-css**](https://github.com/30-seconds/30-seconds-of-css) - hort CSS code snippets for all your development needs
+    * [**animate.css**](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
     * [**racher**](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
     * [**solved-by-css-flexbox**](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
     * [**normalize-css**](https://github.com/necolas/normalize.css) - a modern altenative to css reset 
@@ -35,7 +35,7 @@
     * [**hvoer**](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
     * [**react-spinkit**](https://github.com/KyleAMathews/react-spinkit)  - A collection of loading indicators animated with CSS for React
     * [**50 projects 50 days**](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
-    
+
 * ## javascript
 * ## react
 

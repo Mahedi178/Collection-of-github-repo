@@ -37,6 +37,10 @@
     * [**50 projects 50 days**](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 
 * ## javascript
+     * [**JavaScript-Interview-Question**](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
+     * [**33-js-concepts**](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
+     * [**projectlearn-project-based-learning**](https://github.com/Xtremilicious/projectlearn-project-based-learning) - A curated list of project tutorials for project-based learning.
+       
 * ## react
 
     * [**react-in-patterns**](https://github.com/krasimir/react-in-patterns)

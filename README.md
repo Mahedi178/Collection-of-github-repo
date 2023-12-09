@@ -69,6 +69,8 @@
 
 * [**github-cheat-sheet**](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of git and github
 * [**awesome-readme**](https://github.com/Mahedi178/awesome-readme) - A curated list of awesome READMEs
+* [**10-days-of-git-and-github**](https://github.com/Asabeneh/10-days-of-git-and-github)
+  
 # Shell 
 
 * [**the-art-of-command-line**](https://github.com/jlevy/the-art-of-command-line)

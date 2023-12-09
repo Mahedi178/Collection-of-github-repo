@@ -40,6 +40,7 @@
      * [**JavaScript-Interview-Question**](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
      * [**33-js-concepts**](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
      * [**projectlearn-project-based-learning**](https://github.com/Xtremilicious/projectlearn-project-based-learning) - A curated list of project tutorials for project-based learning.
+     * [**30-days-of-javascript**](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days.
        
 * ## react
 

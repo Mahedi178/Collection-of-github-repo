@@ -17,6 +17,7 @@
 * [**Heart Disease prediction**](https://github.com/ShubhankarRawat/Heart-Disease-Prediction)
 
 * [**Heart_disease_prediction**](https://github.com/chayandatta/Heart_disease_prediction) - Heart Disease prediction using 5 algorithms
+* [**Math-for-machine-learning**](https://github.com/NavigoLearn/Math-for-ML-AI?fbclid=IwAR2rkfuoifDeBE1BUdEBINNB7vG8CVqPSU9ze_hgwwUuOavYxtVU4uAkUNk)
 
 # Desing Pattern 
 
